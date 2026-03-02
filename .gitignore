@@ -1,0 +1,7 @@
+__pycache__/
+.cache
+phase2_results/
+llama_finetuned/
+training_log.txt
+*.log
+Alexios/
